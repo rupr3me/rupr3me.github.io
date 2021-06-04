@@ -1,0 +1,25 @@
+.title {
+    font-style: italic;
+    color: white;
+}
+
+body {
+    background-color: #000080
+}
+
+.white {
+    color: white;
+}
+
+div {
+    background-color: #000066;
+}
+
+.list {
+    background-color: lightsteelblue;
+    width: 13%;
+}
+
+.back-white {
+    background-color: white;
+}
