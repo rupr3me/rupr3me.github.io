@@ -17,7 +17,7 @@ div {
 
 .list {
     background-color: lightsteelblue;
-    width: 13%;
+    width: fit-content;
 }
 
 .back-white {
