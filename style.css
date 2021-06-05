@@ -1,11 +1,19 @@
+html {
+    zoom: 140%
+}
+
+
 .title {
     font-style: italic;
     color: white;
 }
 
+
 body {
     background-color: #000080;
     margin: 0% 30%;
+    min-width: 200px;
+    align-items: center;
 }
 
 .white {
