@@ -1,6 +1,9 @@
 html {
-    min-width: 300px;
-    zoom: 140%
+    zoom: 120%;
+    margin: 0% 5% 0% 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 
@@ -12,9 +15,10 @@ html {
 
 body {
     background-color: #000080;
-    margin: 0% 30%;
-    min-width: 200px;
+    margin: 5% 5% 0% 5%;
+    min-width: 300px;
     align-items: center;
+    justify-content: center;
 }
 
 .white {
@@ -23,7 +27,8 @@ body {
 
 .darkness {
     background-color: #000066;
-    max-width: 1000px;
+    padding: 5px 10px 5px 10px;
+    min-width: fit-content;
 }
 
 .list {
